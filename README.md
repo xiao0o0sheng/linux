@@ -1,2 +1,2 @@
-# linux
-linux configuration
+# vim
+vim configuration
